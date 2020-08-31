@@ -70,7 +70,6 @@
 ## Beyond the Exam
 
 * [Certification](beyond-the-exam/untitled.md)
-* [Libraries and Frameworks](beyond-the-exam/libraries-and-frameworks.md)
 
 ## Problem Sets
 

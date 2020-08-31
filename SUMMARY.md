@@ -3,14 +3,6 @@
 * [Course Syllabus](README.md)
 * [Course Calendar](course-calendar.md)
 
-## Resources
-
-* [Peer Tutoring](resources/peer-tutoring.md)
-* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Course and Exam Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
-
 ## Algorithmic Thinking
 
 * [Logical Puzzles](algorithmic-thinking/logical-puzzles.md)
@@ -105,6 +97,18 @@
 * [Project 1](projects/project-1.md)
 * [Project 2](projects/project-2.md)
 * [Project 3](projects/project-3.md)
+
+## Resources
+
+* [Peer Tutoring](resources/peer-tutoring.md)
+* [AP Classroom](https://myap.collegeboard.org/login)
+* [Canvas](https://canvas.instructure.com/)
+* [Digital Portfolio](https://digitalportfolio.collegeboard.org/)
+* [GitHub](https://github.com/ucvts)
+* [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Course and Exam Description](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles)
 
 ## Appendix
 

@@ -651,9 +651,5 @@ div {
 
 Time to put your newfound web design skills to the test. Problem sets are a thing of the past. Welcome to the world of projects! Don't worry, I'm not throwing you in the deep end yet. First, a tutorial.
 
-{% page-ref page="../tutorials/tutorial-0.md" %}
-
 And now I am throwing you in the deep end!
-
-{% page-ref page="../projects/project-0.md" %}
 

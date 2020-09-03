@@ -145,17 +145,5 @@ If you want to learn more about all of the HTML events available to you, check o
 
 Ready to put these skills to the test? A few quick tutorials will help you get your feet under you.
 
-{% page-ref page="../tutorials/tutorial-1.md" %}
-
-{% page-ref page="../tutorials/tutorial-2.md" %}
-
-{% page-ref page="../tutorials/tutorial-3.md" %}
-
 And now it's time to fly on your own!
-
-{% page-ref page="../projects/project-1.md" %}
-
-{% page-ref page="../projects/project-2.md" %}
-
-{% page-ref page="../projects/project-3.md" %}
 

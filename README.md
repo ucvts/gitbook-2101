@@ -6,7 +6,7 @@ AP Computer Science Principles introduces students to the breadth of the field o
 
 ## Topic Outline
 
-This course is comprised of 10 units of instruction.
+This course consists of 10 units of instruction.
 
 * Algorithmic Thinking
 * An Introduction to JavaScript

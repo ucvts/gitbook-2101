@@ -148,5 +148,3 @@ do {
 
 As always, problem set time!
 
-{% page-ref page="../problem-sets/problem-set-6.md" %}
-

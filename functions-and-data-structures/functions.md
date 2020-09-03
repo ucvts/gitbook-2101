@@ -326,5 +326,3 @@ This is why it's important to use `let` and `const` in favor of `var`. Your code
 
 Alright, let's dive back into writing code. Learning by doing is really the only way to become a programmer. So let's get to doing!
 
-{% page-ref page="../problem-sets/problem-set-8.md" %}
-

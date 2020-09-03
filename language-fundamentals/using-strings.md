@@ -247,5 +247,3 @@ Use this table to reference different escape sequences in JavaScript and the cha
 
 Time for more practice using `string`s! Yup, you guessed it...another problem set.
 
-{% page-ref page="../problem-sets/problem-set-3.md" %}
-

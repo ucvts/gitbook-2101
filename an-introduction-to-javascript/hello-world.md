@@ -157,7 +157,3 @@ This isn't JavaScript-specific, but it demonstrates the necessary skills and ste
 
 Alright, enough show-and-tell. Time to get our hands dirty!
 
-{% page-ref page="../problem-sets/problem-set-0.md" %}
-
-{% page-ref page="../problem-sets/problem-set-1.md" %}
-

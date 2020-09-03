@@ -84,5 +84,3 @@ Again, the expressions are rather short. The top-level ternary operator is broke
 
 This problem set's going to be a bit larger than previous ones. Let's start building up our coding stamina!
 
-{% page-ref page="../problem-sets/problem-set-5.md" %}
-

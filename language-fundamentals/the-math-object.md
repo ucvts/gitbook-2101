@@ -121,5 +121,3 @@ let b = Math.random();    // b might be 0.987...
 
 You read about these methods \(in more detail\) and others in the [full documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math#Static_methods). Alright, time for another problem set. Let's see if you can put all those operators to good use!
 
-{% page-ref page="../problem-sets/problem-set-2.md" %}
-

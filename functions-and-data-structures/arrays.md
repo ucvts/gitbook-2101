@@ -429,5 +429,3 @@ You can and should check out [the documentation](https://developer.mozilla.org/e
 
 Alright, I've thrown a lot at you. Let's see how much of it stuck.
 
-{% page-ref page="../problem-sets/problem-set-7.md" %}
-

@@ -82,5 +82,3 @@ There are plenty of options available to you to make your programs a little more
 
 This was a pretty quick section. Time for an equally quick problem set.
 
-{% page-ref page="../problem-sets/problem-set-4.md" %}
-

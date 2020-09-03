@@ -30,7 +30,7 @@ Make sure you purchase the 2020-2021 versions of these books.
 
 ## Grading Policy
 
-Marking period grades are comprised of tests, quizzes, and programming assignments.
+Marking period grades consist of tests, quizzes, and programming assignments.
 
 * Quizzes \(up to 25 points\)
 * Problem Sets \(up to 50 points\)

@@ -84,7 +84,6 @@
 
 ## Appendix
 
-* [Style Guide](appendix/style-guide.md)
 * [Reserved Words](appendix/reserved-words.md)
 * [Performance Tasks](appendix/performance-tasks.md)
 
